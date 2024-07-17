@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page
 
-[![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)](https://www.google.com)
+[![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)](https://recipe-frontend.netlify.app/)
 
 ## Welcome! 👋
 
