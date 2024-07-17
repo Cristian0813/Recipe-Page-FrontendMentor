@@ -1,7 +1,6 @@
 # Frontend Mentor - Recipe page
-<a href="https://cristian0813.github.io/Recipe-Page-FrontendMentor/" target="_blank">
-    <img src="./design/desktop-preview.jpg" alt="Design preview for the Recipe page coding challenge">
-</a>
+
+[![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)](https://www.google.com)
 
 ## Welcome! 👋
 
